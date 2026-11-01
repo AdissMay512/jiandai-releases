@@ -11,6 +11,12 @@
       "apkUrl": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.1/jiandai-0.3.1-arm64-v8a.apk",
       "sizeBytes": 6428918,
       "sha256": "3ba332bfec942d0c62a068e7b27dc7efb2ac7ca4fb9d9e3398c823d5b13c446c"
+    },
+    "x86_64": {
+      "downloadPageUrl": "https://adissmay512.github.io/jiandai-releases/downloads/0.3.1/android-x86_64/",
+      "apkUrl": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.1/jiandai-0.3.1-x86_64.apk",
+      "sizeBytes": 7030443,
+      "sha256": "a217a32bdd3fd41856f2fcc6da22b0df15dbb94e50f1963ff84ed0ed08b3133d"
     }
   }
 }
