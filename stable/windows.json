@@ -1,11 +1,11 @@
 {
-  "version": "0.3.4",
-  "notes": "更新入口移入关于简待；关闭详情保持下载，入口显示新版及进度，检查结果在弹窗展示，升级完成仅一次短提示。保留任务格式5和原有功能；安卓仍由浏览器下载并经系统安装。提醒系统限制继续保留。",
-  "pub_date": "2026-11-05T02:07:16.723Z",
+  "version": "0.3.5",
+  "notes": "修复 Windows 重复启动产生多个编辑窗口时任务可能互相覆盖的问题；重复启动将返回已有窗口并保留草稿。修正保存失败时的更新提示。首次升级请保存并关闭所有旧版窗口。",
+  "pub_date": "2026-11-10T06:59:33.359Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV3BxcENQaUJ0aXFMVERhaENVa3MwdUxjdnk5clFXSHZ4RGxZQnNIZE0waC9rbUF2cDF4aHRBK3NWTzl4KzR5MjFZUFhWNVorNFpiUUJxd0s5bjdFRWczTDVaSTZzbEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ0NDAzCWZpbGU6566A5b6FXzAuMy40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNApwS0MzY01XQUl0OE10OWdhbmVXV3JnYlNNKzMycVlkYmFQaWZJOU5Hd0kwUloycGhkR0REajRGRmZ1dFVCMG1QdFFCR2VkdGM4QVVEWUVxT2Z1clRDUT09Cg==",
-      "url": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.4/jiandai-0.3.4-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV3BxcENQaUJ0aXJBVHVTam52ZzdHUjVXK0NOZGlrRmhITWZXTVZOZ1NSaXg4bWxKaEo5RVRMTXVqOFRKQjljYURlRkVwV1ZTYnllcUhxYkRFNTRIZnljcGpFTDFTdFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjkzODQ1CWZpbGU6566A5b6FXzAuMy41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNQorS3p3R1c5cFNUeVdIbk1oNmNFY3NpOFJiQllhZWEyMm5uajdaaVY4WjNlU3ozMjZSZkIxMmlINERLSXlZcWEzZFgwb3pGamFMK1M5VGVpbDdHWEFEZz09Cg==",
+      "url": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.5/jiandai-0.3.5-x64-setup.exe"
     }
   }
 }
