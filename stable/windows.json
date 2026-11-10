@@ -1,11 +1,11 @@
 {
-  "version": "0.3.3",
-  "notes": "修复手动安装较高版本后旧更新尝试误提示，保留任务格式5和现有功能。Windows更新验收版。",
-  "pub_date": "2026-11-04T10:30:51.687Z",
+  "version": "0.3.4",
+  "notes": "更新入口移入关于简待；关闭详情保持下载，入口显示新版及进度，检查结果在弹窗展示，升级完成仅一次短提示。保留任务格式5和原有功能；安卓仍由浏览器下载并经系统安装。提醒系统限制继续保留。",
+  "pub_date": "2026-11-05T02:07:16.723Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV3BxcENQaUJ0aWxDazdNL3dCT3JZSXF6d3IrejVzSHN6dGhTTU9TdlJEVWZ1Nk9yRmxCb3hDSXdFeXRUTnNsQVdBWk1TNkdHTHR4bms3NHBvUVpOMkhPN2hRQy9BK3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzg3NzE2CWZpbGU6566A5b6FXzAuMy4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMwptS1MwQyswekEyZWp5aVZTUmdTeVpYdGZ0b2UxN3dQV0loakxFdDhQbkFOTkxHM3VobjFJT2dhTXpoKzI1ZmFJeXV0WWNpUVpMM2UwYnJMR1dYcDZCUT09Cg==",
-      "url": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.3/jiandai-0.3.3-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV3BxcENQaUJ0aXFMVERhaENVa3MwdUxjdnk5clFXSHZ4RGxZQnNIZE0waC9rbUF2cDF4aHRBK3NWTzl4KzR5MjFZUFhWNVorNFpiUUJxd0s5bjdFRWczTDVaSTZzbEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ0NDAzCWZpbGU6566A5b6FXzAuMy40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNApwS0MzY01XQUl0OE10OWdhbmVXV3JnYlNNKzMycVlkYmFQaWZJOU5Hd0kwUloycGhkR0REajRGRmZ1dFVCMG1QdFFCR2VkdGM4QVVEWUVxT2Z1clRDUT09Cg==",
+      "url": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.4/jiandai-0.3.4-x64-setup.exe"
     }
   }
 }
