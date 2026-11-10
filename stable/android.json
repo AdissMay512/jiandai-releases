@@ -2,21 +2,21 @@
   "schemaVersion": 1,
   "channel": "stable",
   "identifier": "com.may.jiandai",
-  "version": "0.3.4",
-  "versionCode": 3004,
-  "notes": "更新入口移入关于简待；关闭详情保持下载，入口显示新版及进度，检查结果在弹窗展示，升级完成仅一次短提示。保留任务格式5和原有功能；安卓仍由浏览器下载并经系统安装。提醒系统限制继续保留。",
+  "version": "0.3.5",
+  "versionCode": 3005,
+  "notes": "修正保存失败时的更新提示，明确提示先重试保存。保留原任务、分类、日期与提醒功能；安卓通过浏览器下载 APK，再由系统确认覆盖安装。",
   "platforms": {
     "arm64-v8a": {
-      "downloadPageUrl": "https://adissmay512.github.io/jiandai-releases/downloads/0.3.4/android-arm64-v8a/",
-      "apkUrl": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.4/jiandai-0.3.4-arm64-v8a.apk",
-      "sizeBytes": 6497852,
-      "sha256": "d8fb4ecab3e033d1b42ec5601baa00ed25e7f307d28b8759a83b14b2f51d6575"
+      "downloadPageUrl": "https://adissmay512.github.io/jiandai-releases/downloads/0.3.5/android-arm64-v8a/",
+      "apkUrl": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.5/jiandai-0.3.5-arm64-v8a.apk",
+      "sizeBytes": 6497916,
+      "sha256": "67b9c0febf9bc7091eb1687ce1f4c72de6fa196f390efcf26e4526d0262a1a3a"
     },
     "x86_64": {
-      "downloadPageUrl": "https://adissmay512.github.io/jiandai-releases/downloads/0.3.4/android-x86_64/",
-      "apkUrl": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.4/jiandai-0.3.4-x86_64.apk",
-      "sizeBytes": 7099345,
-      "sha256": "db4a36d233bb9ecf086a66253f5d01f4f82750db2dc2a372ca2b8ced7bb6f0fe"
+      "downloadPageUrl": "https://adissmay512.github.io/jiandai-releases/downloads/0.3.5/android-x86_64/",
+      "apkUrl": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.5/jiandai-0.3.5-x86_64.apk",
+      "sizeBytes": 7099409,
+      "sha256": "abba0a362c4ceb9033b98ce1c04c35b3366bfff272f3e7a0fc29451c99150932"
     }
   }
 }
