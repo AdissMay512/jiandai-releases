@@ -2,21 +2,21 @@
   "schemaVersion": 1,
   "channel": "stable",
   "identifier": "com.may.jiandai",
-  "version": "0.3.5",
-  "versionCode": 3005,
-  "notes": "修正保存失败时的更新提示，明确提示先重试保存。保留原任务、分类、日期与提醒功能；安卓通过浏览器下载 APK，再由系统确认覆盖安装。",
+  "version": "0.3.6",
+  "versionCode": 3006,
+  "notes": "在安卓「关于简待」中选择「导出任务备份」，可将当前任务和已有升级副本保存为 ZIP 文件。文件位置由你选择。",
   "platforms": {
     "arm64-v8a": {
-      "downloadPageUrl": "https://adissmay512.github.io/jiandai-releases/downloads/0.3.5/android-arm64-v8a/",
-      "apkUrl": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.5/jiandai-0.3.5-arm64-v8a.apk",
-      "sizeBytes": 6497916,
-      "sha256": "67b9c0febf9bc7091eb1687ce1f4c72de6fa196f390efcf26e4526d0262a1a3a"
+      "downloadPageUrl": "https://adissmay512.github.io/jiandai-releases/downloads/0.3.6/android-arm64-v8a/",
+      "apkUrl": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.6/jiandai-0.3.6-arm64-v8a.apk",
+      "sizeBytes": 6522300,
+      "sha256": "33181c39eeaea1cde2a701d5775c20f7f81fadd9329b2812eb509425d0e29d80"
     },
     "x86_64": {
-      "downloadPageUrl": "https://adissmay512.github.io/jiandai-releases/downloads/0.3.5/android-x86_64/",
-      "apkUrl": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.5/jiandai-0.3.5-x86_64.apk",
-      "sizeBytes": 7099409,
-      "sha256": "abba0a362c4ceb9033b98ce1c04c35b3366bfff272f3e7a0fc29451c99150932"
+      "downloadPageUrl": "https://adissmay512.github.io/jiandai-releases/downloads/0.3.6/android-x86_64/",
+      "apkUrl": "https://github.com/AdissMay512/jiandai-releases/releases/download/v0.3.6/jiandai-0.3.6-x86_64.apk",
+      "sizeBytes": 7129417,
+      "sha256": "f39a3edf0fd365333ca1ca8c93c94b210f9fed94af497f10569d6403db18eead"
     }
   }
 }
